@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "おともだち",
+  "base_artist": "ファントムシータ",
+  "createdAt": "2026-04-02T09:45:19.231202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おともだち",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_おともだち_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おともだち",
+      "artist": "ファントムシータ",
+      "has_synced": true,
+      "path": "select/02_おともだち_ファントムシータ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おともだち",
+      "artist": "ファントムシータ",
+      "has_synced": true,
+      "path": "select/03_おともだち_ファントムシータ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おともだち",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/04_おともだち_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おともだち - Friends",
+      "artist": "edhiii boi",
+      "has_synced": true,
+      "path": "select/05_おともだち_-_Friends_edhiii_boi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おともだち",
+      "artist": "ファントムシータ",
+      "has_synced": false,
+      "path": "select/pl_01_おともだち_ファントムシータ.txt"
+    }
+  ]
+}
